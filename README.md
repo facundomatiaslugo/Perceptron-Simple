@@ -17,9 +17,9 @@ El sitio permite:
 
 ## 🎯 Modelo Elegido
 
-**Perceptrón Simple** (Opción A del TP)
+**Perceptrón Simple** 
 
-Hemos elegido este modelo porque:
+Elegimos este modelo porque:
 - Es el bloque fundamental de todas las redes neuronales
 - Permite explicar conceptos de forma visual e intuitiva
 - Muestra claramente las limitaciones de los modelos lineales
@@ -31,10 +31,10 @@ Hemos elegido este modelo porque:
 
 | Rol | Integrante | Responsabilidades |
 |-----|------------|-------------------|
-| 🧠 Especialista en el modelo | [Nombre Apellido] | Implementación del perceptrón en NumPy, lógica de entrenamiento |
-| 📊 Especialista en visualización | [Nombre Apellido] | Gráficos de frontera, error, pesos y diagramas |
-| ✍️ Diseñador del storytelling | [Nombre Apellido] | Textos narrativos, glosario, experiencia de usuario |
-| 🏗️ Arquitecto de la app | [Nombre Apellido] | Integración en Streamlit, repositorio, README |
+| 🧠 Especialista en el modelo | Angeles Mansilla | Implementación del perceptrón en NumPy, lógica de entrenamiento |
+| 📊 Especialista en visualización | Ariel Buchholz | Gráficos de frontera, error, pesos y diagramas |
+| ✍️ Diseñador del storytelling | Facundo Lugo | Textos narrativos, glosario, experiencia de usuario |
+| 🏗️ Arquitecto de la app | Facundo Lugo | Integración en Streamlit, repositorio, README |
 
 ---
 
