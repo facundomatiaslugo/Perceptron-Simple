@@ -31,10 +31,10 @@ Hemos elegido este modelo porque:
 
 | Rol | Integrante | Responsabilidades |
 |-----|------------|-------------------|
-| 🧠 Especialista en el modelo | [Nombre Apellido] | Implementación del perceptrón en NumPy, lógica de entrenamiento |
-| 📊 Especialista en visualización | [Nombre Apellido] | Gráficos de frontera, error, pesos y diagramas |
-| ✍️ Diseñador del storytelling | [Nombre Apellido] | Textos narrativos, glosario, experiencia de usuario |
-| 🏗️ Arquitecto de la app | [Nombre Apellido] | Integración en Streamlit, repositorio, README |
+| 🧠 Especialista en el modelo |Angeles Mansilla| Implementación del perceptrón en NumPy, lógica de entrenamiento |
+| 📊 Especialista en visualización |Ariel Buchholz| Gráficos de frontera, error, pesos y diagramas |
+| ✍️ Diseñador del storytelling |Angeles Mansilla| Textos narrativos, glosario, experiencia de usuario |
+| 🏗️ Arquitecto de la app |Facundo Lugo| Integración en Streamlit, repositorio, README |
 
 ---
 
@@ -68,7 +68,6 @@ tp-perceptron/
 
 ### 1. Clonar o descargar el repositorio
 
-```bash
 git clone [URL-del-repositorio]
 cd tp-grupoXX
 
@@ -87,6 +86,45 @@ pip install -r requirements.txt
 4. Ejecutar la aplicación
 streamlit run app.py
 
+5. Abrir en el navegador
+La aplicación se abrirá automáticamente en:
+http://localhost:8501
+
+---
+
+## 🧭 Recorrido del Storytelling
+El sitio está organizado en 5 capítulos:
+
+1-El Problema - Clasificar peces (biólogo marino)
+2-La Neurona - Pesos, sesgo y activación
+3-El Aprendizaje - Entrenamiento y error
+4-La Frontera - Visualización de la decisión
+5-Los Límites - XOR y reflexión final
+
+---
+
+## 🎮 Interactividad
+La aplicación incluye controles interactivos (sliders, checkboxes, botones) que permiten experimentar con parámetros como la tasa de aprendizaje, el número de épocas y la separación entre clases, con efectos observables en tiempo real.
+
+---
+
+## 📊 Visualizaciones
+
+Frontera de decisión
+Curva de error
+Evolución de pesos
+Diagrama de neurona
+Tabla comparativa
+
+---
+
+## 📚 Referencias
+Rosenblatt, F. (1958). The Perceptron. Psychological Review.
+Documentación de Streamlit, NumPy y Matplotlib.
+
+---
+
+¡Gracias por visitar "Viaje al Perceptrón"! 🧠✨
 
 
 
