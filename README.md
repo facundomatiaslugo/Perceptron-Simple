@@ -63,7 +63,7 @@ Perceptron-Simple/
 
 ## 🚀 Instalación y Ejecución
 
-### 1 Crear y activar entorno virtual (recomendado)
+### 1- Crear y activar entorno virtual (recomendado)
 
 ```bash
 # Windows
@@ -75,19 +75,19 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 2 Instalar dependencias
+### 2-Instalar dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3 Ejecutar la aplicación
+### 3- Ejecutar la aplicación
 
 ```bash
 streamlit run perceptron.py
 ```
 
-### 4 Abrir en el navegador
+### 4- Abrir en el navegador
 
 La aplicación se abrirá automáticamente en:
 ```
