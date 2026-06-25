@@ -52,15 +52,11 @@ Hemos elegido este modelo porque:
 
 ## 📂 Estructura del Proyecto
 
-tp-perceptron/
-├── app.py # Punto de entrada principal (código completo)
-├── requirements.txt # Dependencias exactas del proyecto
-├── README.md # Este archivo (instrucciones y documentación)
-└── informe/ # Carpeta del informe académico
-├── informe.pdf # Informe en PDF (con las 8 secciones)
-└── data/ # Imágenes, capturas y recursos opcionales
-├── capturas/ # Capturas de pantalla de la app
-└── datasets/ # Datos adicionales (si los hay)
+Perceptron-Simple/
+-perceptron.py (código completo)
+-requirements.txt (Dependencias exactas del proyecto)
+-README.md (instrucciones y documentación)
+-Informe_PerceptronSimple.pdf (Informe en PDF)
 
 ---
 
