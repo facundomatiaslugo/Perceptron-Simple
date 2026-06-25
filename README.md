@@ -68,8 +68,8 @@ tp-perceptron/
 
 ### 1. Clonar o descargar el repositorio
 
-git clone [URL-del-repositorio]
-cd tp-grupoXX
+git clone [https://github.com/facundomatiaslugo/Perceptron-Simple.git]
+cd Perceptron-Simple
 
 2. Crear y activar entorno virtual (recomendado)
 # Windows
@@ -84,7 +84,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 4. Ejecutar la aplicación
-streamlit run app.py
+streamlit run perceptron.py
 
 5. Abrir en el navegador
 La aplicación se abrirá automáticamente en:
