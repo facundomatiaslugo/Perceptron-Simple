@@ -52,12 +52,13 @@ Hemos elegido este modelo porque:
 
 ## 📂 Estructura del Proyecto
 
+```
 Perceptron-Simple/
--perceptron.py (código completo)
--requirements.txt (Dependencias exactas del proyecto)
--README.md (instrucciones y documentación)
--Informe_PerceptronSimple.pdf (Informe en PDF)
-
+├── perceptron.py              # Código completo (punto de entrada principal)
+├── requirements.txt           # Dependencias exactas del proyecto
+├── README.md                 # Instrucciones y documentación
+└── Informe_PerceptronSimple.pdf  # Informe en PDF
+```
 ---
 
 ## 🚀 Instalación y Ejecución
@@ -131,4 +132,4 @@ Documentación de Streamlit, NumPy y Matplotlib.
 
 
 
-## 📂 Estructura del Proyecto
+
