@@ -62,14 +62,9 @@ Perceptron-Simple/
 
 ## 🚀 Instalación y Ejecución
 
-### 1. Clonar o descargar el repositorio
+### 1 Crear y activar entorno virtual (recomendado)
 
 ```bash
-git clone https://github.com/facundomatiaslugo/Perceptron-Simple.git
-cd Perceptron-Simple
-```
-
-2. Crear y activar entorno virtual (recomendado)
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -77,16 +72,26 @@ venv\Scripts\activate
 # macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
-3. Instalar dependencias
+### 2 Instalar dependencias
+
+```bash
 pip install -r requirements.txt
+```
 
-4. Ejecutar la aplicación
+### 3 Ejecutar la aplicación
+
+```bash
 streamlit run perceptron.py
+```
 
-5. Abrir en el navegador
+### 4 Abrir en el navegador
+
 La aplicación se abrirá automáticamente en:
+```
 http://localhost:8501
+```
 
 ---
 
