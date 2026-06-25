@@ -1,4 +1,4 @@
-# 🧠 Viaje al Perceptrón
+# 🧠Aprendizaje Automático con Perceptrón
 
 ## 📖 Descripción del Proyecto
 
@@ -68,8 +68,10 @@ tp-perceptron/
 
 ### 1. Clonar o descargar el repositorio
 
-git clone [https://github.com/facundomatiaslugo/Perceptron-Simple.git]
+```bash
+git clone https://github.com/facundomatiaslugo/Perceptron-Simple.git
 cd Perceptron-Simple
+```
 
 2. Crear y activar entorno virtual (recomendado)
 # Windows
@@ -124,7 +126,7 @@ Documentación de Streamlit, NumPy y Matplotlib.
 
 ---
 
-¡Gracias por visitar "Viaje al Perceptrón"! 🧠✨
+¡Gracias por visitar "Aprendizaje Automático con Perceptrón"! 🧠✨
 
 
 
